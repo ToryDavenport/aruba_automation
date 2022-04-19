@@ -28,7 +28,7 @@ We can use the http GET method and the url defined below (yours will be differen
 https://apigw-uswest4.central.arubanetworks.com/monitoring/v2/networks
 
 ```bash
-http GET https://apigw-uswest4.central.arubanetworks.com/monitoring/v2/networks?access_token=WoSRgYtcIRc84qQq1xQUYyUt55GnitxN
+http GET https://apigw-uswest4.central.arubanetworks.com/monitoring/v2/networks?access_token=111222333444
 ```
 
 *Example Output*
