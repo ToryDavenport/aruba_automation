@@ -1,12 +1,12 @@
 {
-  "access_token": "WoSRgYtcIRc84qQq1xQUYyUt55GnitxN",
+  "access_token": "111222333444",
   "appname": "nms",
-  "authenticated_userid": "networkautomation@computerdata.com",
+  "authenticated_userid": "<REDACTED>",
   "created_at": 1650390007212,
   "credential_id": "60a2ca81-2f2e-4d30-9aec-2d25c0801b21",
   "expires_in": 7200,
   "id": "101a5ad9-d941-40e6-928c-fbe060f02199",
-  "refresh_token": "Jg7Yb6tP4EQJKCykNvIuFGm18Uk5keTj",
+  "refresh_token": "<REDACTED>",
   "scope": "all",
   "token_type": "bearer"
 }
