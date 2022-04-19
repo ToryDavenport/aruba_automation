@@ -1,0 +1,7 @@
+{
+  "routing": false,
+  "vlan_mode": "access",
+  "vlan_tag": {
+    "999":"/rest/v10.04/system/vlans/999"
+  }
+ }
