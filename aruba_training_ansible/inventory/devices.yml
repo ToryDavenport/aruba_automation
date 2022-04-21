@@ -1,0 +1,16 @@
+all:
+  hosts:
+    AD_server:
+    Clearpass_Server:
+  children:
+    south_wing:
+      hosts:
+        access_1_sw:
+          ansible_host: 10.251.11.103
+          ansible_user: admin
+          ansible_password: aruba123
+          ansible_network_os: arubanetworks.aoscx.aoscx
+          ansible_connection: arubanetworks.aoscx.aoscx
+          ansible_aoscx_validate_certs: false
+          ansible_aoscx_use_proxy: false
+          device_id: 3
